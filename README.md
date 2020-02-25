@@ -1,4 +1,4 @@
-# react-tic-tac-joe-game
+# react-tic-tac-toe-game
 React - Official Tutorial
 =======
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
